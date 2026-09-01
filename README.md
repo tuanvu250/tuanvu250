@@ -1,22 +1,70 @@
-## Hi there 👋
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1200&lines=I'm+Uong+Tuan+Vu%2C+a+Frontend+Developer+specializing+in+React%2C+Next.js%2C+and+TypeScript.)](https://git.io/typing-svg)<br>
-## 💫 About Me:
-Crafting seamless, high-performance user interfaces is my primary focus as a Frontend Engineer. I am passionate about the art of clean code and Next.js architecture, constantly seeking better ways to bridge the gap between sophisticated design and technical excellence. My long-term goal is to lead the development of impactful web products, refining my expertise in React and modern frontend ecosystems through continuous learning and the resolution of complex, real-world UI challenges
+<div align="center">
 
+  <h1>Hi there, I'm Uong Tuan Vu 👋</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuanvu250) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vuuong02) 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Engineer+%E2%80%A2+React+%2F+Next.js+%2F+TypeScript;Building+high-performance+%26+seamless+user+interfaces;Passionate+about+Clean+Code+%26+Modern+Architecture" alt="Typing SVG" />
+  </a>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <p align="center">
+    <a href="https://linkedin.com/in/tuanvu250"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:vuuong02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+</div>
+
+---
+
+### 💫 About Me
+
+- 🚀 **Specialization**: Crafting seamless, high-performance user interfaces with **React**, **Next.js**, and **TypeScript**.
+- 💡 **Passion**: Clean code, component design systems, and bridging the gap between sophisticated UI design and technical excellence.
+- ⚙️ **Fullstack & Cloud**: Experienced with **C# / .NET**, RESTful APIs, **AWS**, and modern CI/CD deployment on **Vercel**.
+- 🎯 **Continuous Growth**: Constantly refining frontend engineering craft, exploring modern paradigms, and tackling complex real-world challenges.
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,styledcomponents,tailwind,radixui,cs,dotnet,aws,vercel,git,github,npm" alt="Tech Stack" />
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=tuanvu250&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanvu250&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tuanvu250&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuanvu250/tuanvu250/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuanvu250/tuanvu250/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuanvu250/tuanvu250/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tuanvu250/tuanvu250/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tuanvu250/tuanvu250/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tuanvu250/tuanvu250/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
